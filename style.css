@@ -1,0 +1,22 @@
+* {
+	font-family: Georgia, serif;
+}
+
+h2{
+	text-transform: uppercase;
+}
+
+figure{
+max-width: 800px;}
+
+figcaption{
+	color: gray;
+}
+
+img{
+	max-width: 800%;
+}
+
+h6{
+	color: gray;
+}
